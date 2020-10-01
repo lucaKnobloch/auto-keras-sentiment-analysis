@@ -1,0 +1,4 @@
+Tensorflow>=2.3.0
+autokeras>=1.0.9
+Keras>=2.4.3
+git+https://github.com/keras-team/keras-tuner.git@8f0d4550417af1676143499c688434065eb807c9
